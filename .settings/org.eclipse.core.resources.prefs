@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/com/oracle/dao/OrderDao.java=GBK
+encoding//src/com/oracle/dao/UserDao.java=GBK
+encoding//src/com/oracle/util/DbUtil.java=UTF-8
+encoding//src/com/oracle/view/CheckOrderInterFrm.java=UTF-8
